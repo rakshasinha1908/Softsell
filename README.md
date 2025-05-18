@@ -5,7 +5,7 @@ A modern, single-page responsive marketing website for a fictional company **Sof
 
 ## 🚀 Live Demo
 
-[https://softsell.vercel.app](#) (update after deploying to Vercel)
+[https://softsell-alpha-six.vercel.app/?](#) 
 
 ---
 
